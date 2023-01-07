@@ -1,8 +1,12 @@
 //Archivo para funciones principales
 
-const pintarProductos = () => {
+const pintarProductos = async () => {
   const contenedor = document.getElementById("producto-contenedor");
 
+  //invocamos a la funcion controller
+  const productos = await homeController()
+
+  //con await digo "espera a que homeController me retorne ese array de objetos", cuando esta listo para retornarlo, en el array de productos lo guardamos y recorremos con un for each
   productos.forEach(producto => {
     const div = document.createElement('div');
     div.classList.add('card');
