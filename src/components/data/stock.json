@@ -12,7 +12,7 @@
         "tiempoDeEntrega": 10, 
         "nroDeRevisiones": 1,
         "img": "./public/images/img/logo.png",
-        "cantidad": 0
+        "cantidad": 1
     },
     {
         "id": "flyer_001",
@@ -25,7 +25,7 @@
         "tiempoDeEntrega": 4,   
         "nroDeRevisiones": 2,
         "img": "./public/images/img/flyer.jpeg",
-        "cantidad": 0
+        "cantidad": 1
     },
 
 
@@ -40,7 +40,7 @@
         "tiempoDeEntrega": 4,
         "nroDeRevisiones": 3,
         "img": "./public/images/img/banner.png",
-        "cantidad": 0
+        "cantidad": 1
     },
     {
         "id": "publicidad_001",
@@ -53,7 +53,7 @@
         "tiempoDeEntrega": 3,
         "nroDeRevisiones": 1,
         "img": "./public/images/img/publicidad.jpeg",
-        "cantidad": 0
+        "cantidad": 1
     },
     {
         "id": "disenioEditorial_001",
@@ -66,7 +66,7 @@
         "tiempoDeEntrega": 10,
         "nroDeRevisiones": 1,
         "img": "./public/images/img/background.jpg",
-        "cantidad": 0
+        "cantidad": 1
     },
     {
         "id": "dibujo_001",
@@ -79,7 +79,7 @@
         "tiempoDeEntrega": 10,
         "nroDeRevisiones": 1,
         "img": "./public/images/img/dibujo.jpg",
-        "cantidad": 0
+        "cantidad": 1
     },
     {
         "id": "personajeAnimado_001",
@@ -92,7 +92,7 @@
         "tiempoDeEntrega": 10, 
         "nroDeRevisiones": 1,
         "img": "./public/images/img/caricatura.jpg",
-        "cantidad": 0
+        "cantidad": 1
     },
     {
         "id": "marca_001",
@@ -105,7 +105,7 @@
         "tiempoDeEntrega": 3,
         "nroDeRevisiones": 1,
         "img": "./public/images/img/marca.gif",
-        "cantidad": 0
+        "cantidad": 1
     },
     {
         "id": "eslogan_001",
@@ -118,6 +118,6 @@
         "tiempoDeEntrega": 3,
         "nroDeRevisiones": 1,
         "img": "./public/images/img/eslogan.png",
-        "cantidad": 0
+        "cantidad": 1
     }
 ]
